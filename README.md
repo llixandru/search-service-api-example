@@ -1,1 +1,1 @@
-# Call Search Service API from Oracle Functions
+# Call Search Service API from Oracle Functions across all subscribed regions
